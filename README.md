@@ -1,2 +1,2 @@
-# Notes
-HackTheBox shitz
+# CTF Writeups
+Some competitions
