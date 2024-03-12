@@ -1,8 +1,8 @@
 ## Writeup
 
-> Difficulty: Easy
-> Description: A very simple web challenge
-> Flag: `LNC24{5imp1e_Bu7_N0t_Simpl3}`
+- Difficulty: Easy
+- Description: A very simple web challenge
+- Flag: `LNC24{5imp1e_Bu7_N0t_Simpl3}`
 
 We are given the source code for the website, which seems to be a plain login site.
 
