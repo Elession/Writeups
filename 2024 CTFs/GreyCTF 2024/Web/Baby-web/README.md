@@ -9,7 +9,7 @@ We are given a login site and the source code.
 ![](./images/img1.png)
 
 Based off the source code, there is a check for the session.
-The site also uses `Flask` framework so we could assume that the cookie creation is based off that.
+The site also uses `Flask` framework so we could assume that it's where the cookie creation comes from.
 
 ![](./images/img2.png)
 
